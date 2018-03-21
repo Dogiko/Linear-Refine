@@ -3,6 +3,6 @@
 
 ## Abstract
 
-A tool for linear transformation between two euclidean spaces base on numpy.
+A tool for linear regression base on numpy.
 
-Focus on dealing with useless variables
+With function deal with useless variables(regresor).
