@@ -1,8 +1,8 @@
-# Linear Regression
+# Linear Refine
 ---
 
 ## Abstract
 
-An linear regression tool base on numpy.
+A tool for linear transformation between two euclidean spaces base on numpy.
 
-With some functions to deal with useless variables(regressor).
+Focus on dealing with useless variables
